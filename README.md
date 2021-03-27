@@ -15,3 +15,8 @@ Abaixo segue um print do código em funcionamento:
 
 
 ![](print_calculadora.jpg)
+
+
+Imagem do código abaixo:
+
+![](calculadora.jpg)
